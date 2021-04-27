@@ -1,12 +1,13 @@
 Visualizations created from spam email corpus and GPT-2-generated email replies
 
 ## Voronoi Globe
-interactive globe showing geoparsed locations from spam email corpus
+Interactive globe showing geoparsed locations from spam email corpus
 <iframe width="100%" height="1030" frameborder="0"
   src="https://observablehq.com/embed/9448305a3c862255?cells=chart"></iframe>
   
+  
 ## Calendar View
-Spam email corpus visualized as frequencies on calendar
+Frequencies of emails received for spam email corpus period 2002-2007
 <iframe width="100%" height="850" frameborder="0"
   src="https://observablehq.com/embed/b2751d38d3ed6dcd?cells=viewof+weekday%2Ckey%2Cchart"></iframe>
   
@@ -18,9 +19,9 @@ The 250 most frequent words from the spam email corpus
   
   
 ## Choropleth Map
-Average positivity sentiment of the spam email corpus
-<iframe width="100%" height="541" frameborder="0"
-  src="https://observablehq.com/embed/9bc74e04bb0adb48?cells=chart"></iframe>
+Average positivity sentiment of the spam email corpus by location
+<iframe width="100%" height="608" frameborder="0"
+  src="https://observablehq.com/embed/@triciajohn/average-positivity-of-spam-emails?cells=key%2Cchart"></iframe>
 
 
 ## Heirarchical Bar Chart
@@ -30,7 +31,7 @@ Number of misspellings per email offering and attack type
 
 
 ## Voronoi Stippling
-Weighted stippling of DCGAN generated face
+Weighted stippling of DCGAN-generated face
 <iframe width="100%" height="1030" frameborder="0"
   src="https://observablehq.com/embed/ad1deed6030495ef?cells=image"></iframe>
 
