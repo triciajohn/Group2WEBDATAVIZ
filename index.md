@@ -8,7 +8,7 @@ interactive globe showing geoparsed locations from spam email corpus
 ## Calendar View
 Spam email corpus visualized as frequencies on calendar
 <iframe width="100%" height="850" frameborder="0"
-  src="https://observablehq.com/embed/b2751d38d3ed6dcd?cells=chart"></iframe>
+  src="https://observablehq.com/embed/b2751d38d3ed6dcd?cells=viewof+weekday%2Ckey%2Cchart"></iframe>
   
   
 ## Word Cloud
