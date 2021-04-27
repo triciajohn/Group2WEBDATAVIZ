@@ -1,30 +1,36 @@
-# Group 2 Assignment 3 D3 Visualizations
-Visuals
+Visualizations created from spam email corpus and GPT-2-generated email replies
 
 ## Calendar View
 Spam email corpus visualized as frequencies on calendar
 <iframe width="100%" height="1001" frameborder="0"
   src="https://observablehq.com/embed/b2751d38d3ed6dcd?cells=chart"></iframe>
   
+  
 ## Word Cloud
 The 250 most frequent words from the spam email corpus
 <iframe width="100%" height="684" frameborder="0"
   src="https://observablehq.com/embed/6b2bd0c3ed3a97de?cells=chart"></iframe>
+  
   
 ## Choropleth Map
 Average positivity sentiment of the spam email corpus
 <iframe width="100%" height="541" frameborder="0"
   src="https://observablehq.com/embed/9bc74e04bb0adb48?cells=chart"></iframe>
 
+
 ## Heirarchical Bar Chart
 Number of misspellings per email offering and attack type
 <iframe width="100%" height="221" frameborder="0"
   src="https://observablehq.com/embed/e4dcc1c433aa8177?cells=chart"></iframe>
 
+
 ## Voronoi Stippling
 Weighted stippling of DCGAN generated face
 <iframe width="100%" height="1030" frameborder="0"
   src="https://observablehq.com/embed/ad1deed6030495ef?cells=image"></iframe>
+
+
+
 
 
 ## Welcome to GitHub Pages
