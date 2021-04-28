@@ -1,7 +1,7 @@
 Visualizations created from spam email corpus and GPT-2-generated email replies
 
 ## Voronoi Globe
-Interactive globe showing geoparsed locations from spam email corpus
+Interactive globe showing geoparsed locations from spam email corpus (red) and GPT-2-generated email replies (blue)
 <iframe width="100%" height="1030" frameborder="0"
   src="https://observablehq.com/embed/9448305a3c862255?cells=chart"></iframe>
   
@@ -32,7 +32,7 @@ Number of misspellings per email offering and attack type
 
 ## Voronoi Stippling
 Weighted stippling of DCGAN-generated face
-<iframe width="100%" height="1030" frameborder="0"
+<iframe width="100%" height="1000" frameborder="0"
   src="https://observablehq.com/embed/ad1deed6030495ef?cells=image"></iframe>
 
 
