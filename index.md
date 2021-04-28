@@ -8,7 +8,7 @@ Interactive globe showing geoparsed locations from spam email corpus (red) and G
   
 ## Calendar View
 Frequencies of emails received for spam email corpus period 2002-2007
-<iframe width="100%" height="850" frameborder="0"
+<iframe width="100%" height="950" frameborder="0"
   src="https://observablehq.com/embed/b2751d38d3ed6dcd?cells=viewof+weekday%2Ckey%2Cchart"></iframe>
   
   
