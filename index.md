@@ -1,6 +1,6 @@
 Visualizations created from spam email corpus and GPT-2-generated email replies
 
-## Voronoi Globe
+## Globe
 Interactive globe showing geoparsed locations from spam email corpus (red) and GPT-2-generated email replies (blue)
 
 _Drag globe around_
