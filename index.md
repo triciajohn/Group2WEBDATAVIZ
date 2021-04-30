@@ -14,20 +14,21 @@ Frequencies of emails received for spam email corpus period 2002-2007
 _Calendar view can be changed using the drop-down menu_
 <iframe width="100%" height="1000" frameborder="0"
   src="https://observablehq.com/embed/b2751d38d3ed6dcd?cells=viewof+weekday%2Ckey%2Cchart"></iframe>
-  
+
+
+## Word Cloud
+The 250 most frequent words from the spam email corpus
+<iframe width="100%" height="684" frameborder="0"
+  src="https://observablehq.com/embed/6b2bd0c3ed3a97de?cells=chart"></iframe>
+
+
 ## Word Count and Frequencies Bar Chart
 Top 20 words compared between original emails and GPT-2 generated emails.
 
 _Email corpus can be changed using the drop-down menu_
 <iframe width="100%" height="634" frameborder="0"
   src="https://observablehq.com/embed/597a6808941dc043?cells=viewof+attachment%2Cchart"></iframe>
-  
-  
-## Word Cloud
-The 250 most frequent words from the spam email corpus
-<iframe width="100%" height="684" frameborder="0"
-  src="https://observablehq.com/embed/6b2bd0c3ed3a97de?cells=chart"></iframe>
-  
+
   
 ## Choropleth Map
 Average positivity sentiment of the spam email corpus by location
